@@ -1,0 +1,13 @@
+ollama>=0.1.0
+duckduckgo-search>=4.0.0
+trafilatura>=1.6.0
+newspaper3k>=0.2.8
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+sentence-transformers>=2.2.0
+rich>=13.0.0
+typer>=0.9.0
+aiohttp>=3.9.0
+tqdm>=4.66.0
+requests>=2.31.0
+torch>=2.0.0

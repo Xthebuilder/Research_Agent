@@ -1,0 +1,22 @@
+{
+  "ollama": {
+    "base_url": "http://localhost:11434",
+    "default_model": "gpt-oss:20b",
+    "timeout": 300
+  },
+  "research": {
+    "min_sources": 5,
+    "max_source_attempts": 10,
+    "source_timeout": 30,
+    "source_similarity_threshold": 0.6,
+    "report_quality_threshold": 0.7,
+    "max_report_attempts": 3
+  },
+  "embedding": {
+    "model": "sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "output": {
+    "directory": "./research_reports",
+    "log_file": "./research_agent.log"
+  }
+}
