@@ -7,13 +7,13 @@ A Python-based CLI application for conducting local research using Ollama as the
 
 ## Features
 
-- 🔍 **Intelligent Source Gathering**: Asynchronously retrieves and extracts content from web sources
-- 🧠 **Semantic Evaluation**: Uses local embedding models to assess source relevance
-- 📊 **Quality Assurance**: Automatic quality checks ensure high-quality reports
-- 🎨 **Beautiful CLI**: Rich, colored interface with progress indicators
-- ⚡ **Async Operations**: Fast, efficient processing with lazy loading
-- 🔄 **Retry Logic**: Robust error handling with automatic retries
-- 📝 **Structured Reports**: Well-formatted markdown reports with citations
+**Intelligent Source Gathering**: Asynchronously retrieves and extracts content from web sources
+ **Semantic Evaluation**: Uses local embedding models to assess source relevance
+ **Quality Assurance**: Automatic quality checks ensure high-quality reports
+**Beautiful CLI**: Rich, colored interface with progress indicators
+**Async Operations**: Fast, efficient processing with lazy loading
+**Retry Logic**: Robust error handling with automatic retries
+**Structured Reports**: Well-formatted markdown reports with citations
 
 ## Installation
 
@@ -150,4 +150,4 @@ Detailed logs are written to `./research_agent.log` for debugging purposes.
 ## License
 
 This project is provided as-is for research and educational purposes.
- 928b0b6 (Initial commit)
+
